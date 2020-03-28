@@ -2,7 +2,7 @@ import React from "react";
 import Illustration from "../img/img_principal.svg"
 import Form from './contact.form';
 export default () => (
-  <header className="bg-gray-200">
+  <header className="bg-gray-300">
     <div className="container mx-auto p-12 max-w-4xl">
       <div className="flex justify-center items-center">
         <div className="flex-1">
@@ -12,9 +12,9 @@ export default () => (
         <img src={Illustration} alt="Hombre desarrolando Aplicación Web" style={{height: "300px"}}></img>
        
       </div>
-      <div>
+      {/* <div>
           <Form/>  
-      </div>
+      </div> */}
     </div>
   </header>
 )

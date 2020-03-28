@@ -1,0 +1,17 @@
+{
+    "slug" : "presencial",
+    "title": "Formación académica",
+    "description": "Formación académica, grados de estudio e instituciones a las que asistí",
+    "items": [
+        {
+            "name": "UPV Universitat Politècnica de València",
+            "degree": "Máster Universitario en Ingeniería y Tecnología de Sistemas Software",
+            "icon": "XX"
+        },
+        {
+            "name": "Universidad Laica Eloy Alfaro de Manabí",
+            "degree": "Ingeniero en Sistemas",
+            "icon": "XX"
+        }
+    ]
+}

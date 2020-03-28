@@ -1,0 +1,12 @@
+{
+    "slug": "otros",
+    "title": "Otro tipo de Formación",
+    "description": "Otra formación relacionada",
+    "items": [
+        {
+            "name": "CNNA 1 Routing and Switching",
+            "entity": "CISCO",
+            "hours": "40"
+        }
+    ]
+}

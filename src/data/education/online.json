@@ -1,0 +1,37 @@
+{
+    "slug": "online",
+    "title": "Formación Online",
+    "description": "Formación adquirida por medio de cursos Digitales",
+    "items": [
+        {
+            "name": "Proyecto Escalables con Angular",
+            "entity": "TrainingIT",
+            "url": "https://trainingit.es/curso-angular-avanzado",
+            "icon": "XX"
+        },
+        {
+            "name": "Vue js 2 Completo ¡De 0 a Experto! + Firebase + Node [MEVN]",
+            "entity": "Udemy",
+            "url": "https://www.udemy.com/course/curso-vue",
+            "icon": "XX"
+        },
+        {
+            "name": "PWA - Aplicaciones Web Progresivas",
+            "entity": "Udemy",
+            "url": "https://www.udemy.com/course/aplicaciones-web-progresivas",
+            "icon": "XX"
+        },
+        {
+            "name": "Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN",
+            "entity": "Udemy",
+            "url": "https://www.udemy.com/course/angular-avanzado-fernando-herrera/",
+            "icon": "XX"
+        },
+        {
+            "name": "Crea un sitio personal con Gatsby",
+            "entity": "CodigoFacilito",
+            "url": "https://codigofacilito.com/cursos/sitio-persional-gatsby",
+            "icon": "XX"
+        }
+    ]
+}
